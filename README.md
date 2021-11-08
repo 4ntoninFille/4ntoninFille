@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=4ntoninFille&show_icons=true&theme=synthwave&count_private=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ntoninFille&layout=compact)
